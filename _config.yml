@@ -1,0 +1,28 @@
+name: Jared Test Site
+favicon: null
+layout_spectrum: 0.2651784378103912
+typography_spectrum: 0.6577637849841267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.33374412450939417
+  lightness: 0.6187001969665289
+  saturation: 0.5638112670276314
+  rhythmicContrast: 0.43503318540751934
+purpose: []
